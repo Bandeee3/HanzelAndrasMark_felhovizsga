@@ -1,0 +1,2 @@
+
+print("felhő vizsga!")
